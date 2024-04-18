@@ -1,6 +1,8 @@
-### Hi there 👋
+<h3 align="left">Hi there 👋, I'm Juho</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhokan)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhokan&show_icons=true&theme=rose_pine" alt="juhokan" /></p>
+
 
 <!--
 **juhokan/juhokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
